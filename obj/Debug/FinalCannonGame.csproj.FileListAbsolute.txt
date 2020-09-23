@@ -1,0 +1,10 @@
+D:\FinalCannonGame\FinalCannonGame\obj\Debug\FinalCannonGame.Properties.Resources.resources
+D:\FinalCannonGame\FinalCannonGame\obj\Debug\FinalCannonGame.csproj.GenerateResource.Cache
+D:\FinalCannonGame\FinalCannonGame\bin\Debug\FinalCannonGame.exe.config
+D:\FinalCannonGame\FinalCannonGame\bin\Debug\FinalCannonGame.exe
+D:\FinalCannonGame\FinalCannonGame\bin\Debug\FinalCannonGame.pdb
+D:\FinalCannonGame\FinalCannonGame\obj\Debug\FinalCannonGame.exe
+D:\FinalCannonGame\FinalCannonGame\obj\Debug\FinalCannonGame.pdb
+D:\FinalCannonGame\FinalCannonGame\obj\Debug\FinalCannonGame.GameForm.resources
+D:\FinalCannonGame\FinalCannonGame\obj\Debug\FinalCannonGame.csprojResolveAssemblyReference.cache
+D:\FinalCannonGame\FinalCannonGame\obj\Debug\FinalCannonGame.csproj.CoreCompileInputs.cache
